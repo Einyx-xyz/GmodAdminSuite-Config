@@ -19,7 +19,7 @@
 OpenPermissions.Operators.Usergroups = {"superadmin", "operator", "developer", "owner", "founder"}
 
 -- Enter SteamIDs or SteamID64s of people who should be Operators
-OpenPermissions.Operators.SteamIDs = {"STEAM_0:1:40314158", "76561198040894045"}
+OpenPermissions.Operators.SteamIDs = {}
 
 -- Don't delete the line below; your config will break.
 return true
